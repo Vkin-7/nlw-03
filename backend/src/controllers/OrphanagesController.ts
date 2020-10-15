@@ -23,7 +23,7 @@ export default {
 
         const orphanagesRepository = getRepository(Orphanage)
 
-        const orphanage = await orphanagesRepository.findOneOrFail(id)
+        const orphanage = await orphanagesRepository.findOneOrFail(id, {relations: ['images']})
 
         return res.json(orphanageView.render(orphanage))
     },
@@ -55,7 +55,7 @@ export default {
             about,
             instructions,
             opening_hours,
-            open_on_weekends,
+            open_on_weekends: open_on_weekends === 'true',
             images
         }
 
@@ -72,6 +72,7 @@ export default {
                 })
             ),
         })
+
 
         await schema.validate(data, {
             abortEarly: false
