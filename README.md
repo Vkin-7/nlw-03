@@ -1,18 +1,18 @@
 # Aplicação web
 
-<img src='./README/landing-page-web.png' width='49.8%' />
-<img src='./README/map-page-web.png' width='49.8%' />
+<img src='./README/landing-page-web.png' width='49%' />
+<img src='./README/map-page-web.png' width='49%' />
 
-<img src='./README/orphanage-page-web.gif' width='49.8%' />
-<img src='./README/create-orphanage-page-web.gif' width='49.8%' />
+<img src='./README/orphanage-page-web.gif' width='49%' />
+<img src='./README/create-orphanage-page-web.gif' width='49%' />
 <br>
 <br>
 
 # Aplicação mobile (Android/IOS)
 
-<img src='./README/map-page-mobile.png' width='33%' />
-<img src='./README/choice-map-page-mobile.png' width='33%' />
-<img src='./README/create-orphanage-page-mobile.gif' width='33%' />
+<img src='./README/map-page-mobile.png' width='30%' />
+<img src='./README/choice-map-page-mobile.png' width='30%' />
+<img src='./README/create-orphanage-page-mobile.gif' width='30%' />
 
 ## Instalação
 
