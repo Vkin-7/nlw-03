@@ -12,9 +12,9 @@
 # Aplicação mobile (Android/IOS)
 
 <div style='text-align: center'>
-<img src='./README/map-page-mobile.png' width='33%' />
-<img src='./README/choice-map-page-mobile.png' width='33%' />
-<img src='./README/create-orphanage-page-mobile.gif' width='33%' />
+<img src='./README/map-page-mobile.png' width='32%' />
+<img src='./README/choice-map-page-mobile.png' width='32%' />
+<img src='./README/create-orphanage-page-mobile.gif' width='32%' />
 </div>
 <br>
 <br>
