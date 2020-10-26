@@ -1,5 +1,5 @@
 # Aplicação web
-<div style='align: center'>
+<div style='text-align: center'>
 <img src='./README/landing-page-web.png' width='49%' />
 <img src='./README/map-page-web.png' width='49%' />
 
@@ -11,10 +11,10 @@
 
 # Aplicação mobile (Android/IOS)
 
-<div style='align: center'>
-<img src='./README/map-page-mobile.png' width='32.8%' />
-<img src='./README/choice-map-page-mobile.png' width='32.8%' />
-<img src='./README/create-orphanage-page-mobile.gif' width='32.8%' />
+<div style='text-align: center'>
+<img src='./README/map-page-mobile.png' width='33%' />
+<img src='./README/choice-map-page-mobile.png' width='33%' />
+<img src='./README/create-orphanage-page-mobile.gif' width='33%' />
 </div>
 <br>
 <br>
@@ -40,3 +40,10 @@ yarn install
 - React Native;
 - Expo;
 - SQLite;
+
+<br>
+<br>
+<br>
+<div style='text-align: center'>
+Projeto desenvolvido durante a terceira edição do workshop NLW da Rocketseat
+</div>
