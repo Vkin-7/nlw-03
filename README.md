@@ -1,10 +1,11 @@
 # Aplicação web
-
-<img src='./README/landing-page-web.png' width='49%' />
-<img src='./README/map-page-web.png' width='49%' />
+<div style='align: center'>
+<img src='./README/landing-page-web.png' />
+<img src='./README/map-page-web.png' />
 
 <img src='./README/orphanage-page-web.gif' width='49%' />
 <img src='./README/create-orphanage-page-web.gif' width='49%' />
+</div>
 <br>
 <br>
 
